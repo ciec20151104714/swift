@@ -7,6 +7,8 @@ for index in 1...100{
 print(sum);
 
 
+
+
 var sum1=0,j=1;
 while j<=100
 {
@@ -14,3 +16,11 @@ while j<=100
     j=j+1;
 }
 print(sum1);
+
+
+var sum2=0
+for k in 1...100{
+    sum2=sum2+k;
+    
+}
+print(sum2);
