@@ -5,3 +5,12 @@ for index in 1...100{
     
 }
 print(sum);
+
+
+var sum1=0,j=1;
+while j<=100
+{
+    sum1=sum1+j;
+    j=j+1;
+}
+print(sum1);
